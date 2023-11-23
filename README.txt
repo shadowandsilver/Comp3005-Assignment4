@@ -1,5 +1,11 @@
-Name: Yanwei Su 
+Name: Yanwei Su
 ID:101209998
+
+The code provides getAllStudents(), addStudent(), updateStudentEmail(), deleteStudent().
+getAllStudents() -- get all information from students
+addStudent() -- add a new students
+updateStudentEmail() -- update students' email by students' id
+deleteStudent() -- delete students' information by students' id
 
 Files:
 DB.txt -- Query SQL for creating students table
@@ -15,4 +21,5 @@ How to use:
 5.Open A4JDBC using a compiler such as IDEA
 6.If you don't have lib, you need to import postgresql-42.7.0.jar first.
 7.Then compile the file and run it.
+
 
